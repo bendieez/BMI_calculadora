@@ -1,2 +1,4 @@
 # BMI_calculadora
 Calculadora de masa corporal 
+Se realizó la calculadora con varios tutoriales para utilizar los deslizantes, se considera edad y el actual peso. 
+El proyecto de la calculadora de porcentaje de masa corporal (BMI) es una aplicación móvil que permite a los usuarios calcular su BMI con facilidad. El BMI es una medida que evalúa la relación entre el peso y la altura de una persona y se utiliza como indicador general de la salud y el riesgo de enfermedades relacionadas con el peso. Esta calculadora proporciona una interfaz intuitiva donde los usuarios pueden ingresar su altura y peso, y luego calcular su BMI. Además, la aplicación ofrece una interpretación del BMI calculado, indicando si el resultado está dentro de un rango de peso saludable o si sugiere algún riesgo para la salud. La aplicación es útil para cualquier persona interesada en monitorear su estado físico y promover un estilo de vida saludable.
